@@ -20,10 +20,12 @@
 
 [code](https://github.com/neandrey/checkio)
 
+---
+
 1. Digits Multiplication [task](https://js.checkio.org/ru/mission/digits-multiplication/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/digitsMultip.js)
 2. Index Power [task](https://js.checkio.org/ru/mission/index-power/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/indexPower.js)
 4. Three Words [task](https://js.checkio.org/ru/mission/three-words/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/threeWords.js)
 5. Secret Message [task](https://js.checkio.org/ru/mission/secret-message/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/findMessage.js)
 6. Fizz Buzz [task](https://js.checkio.org/ru/mission/fizz-buzz/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/fuzzBuzz.js)
-
+7. Count Inversion [task](https://js.checkio.org/ru/mission/count-inversions/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/countInversion.js)
 ---
