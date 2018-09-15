@@ -28,4 +28,5 @@
 5. Secret Message [task](https://js.checkio.org/ru/mission/secret-message/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/findMessage.js)
 6. Fizz Buzz [task](https://js.checkio.org/ru/mission/fizz-buzz/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/fuzzBuzz.js)
 7. Count Inversion [task](https://js.checkio.org/ru/mission/count-inversions/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/countInversion.js)
+8. First Word [task](https://js.checkio.org/ru/mission/first-word/) [solutions](https://github.com/neandrey/checkioJavaScript/blob/master/firstWord.js)
 ---
